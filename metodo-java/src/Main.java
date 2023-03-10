@@ -16,6 +16,11 @@ public class Main {
         Emprestimo.calcular(1000, Emprestimo.getDuasParcelas());
         Emprestimo.calcular(1000, Emprestimo.getTresParcelas());
         Emprestimo.calcular(1000, 5);
+
+        // Quadrilátero
+        Quadrilatero.area(3);
+        Quadrilatero.area(5, 5);
+        Quadrilatero.area(7, 8, 9);
     }
 
     
