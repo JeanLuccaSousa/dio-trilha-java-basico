@@ -1,6 +1,5 @@
 import java.util.Locale;
 import java.util.Scanner;
-import java.util.jar.JarEntry;
 
 public class AboutMe {
     public static void main(String[] args) {
